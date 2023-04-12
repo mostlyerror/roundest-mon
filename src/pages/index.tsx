@@ -12,6 +12,7 @@ const Home: NextPage = () => {
       <div className="text-center text-2xl font-bold">
         Which Pokemon is Rounder?
       </div>
+      <div className="p-2"></div>
       <div className="flex max-w-2xl items-center justify-between rounded border p-8 align-middle">
         <div className="h-16 w-16 bg-red-200"></div>
         <div className="p-8">VS</div>
